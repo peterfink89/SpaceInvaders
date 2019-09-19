@@ -61,4 +61,5 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-#*.cpp linguist-language=C++
+*.cpp linguist-language=C++
+*.h linguist-language=C++
